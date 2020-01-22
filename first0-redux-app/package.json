@@ -1,0 +1,23 @@
+{
+  "name": "redux-with-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shawinder706/Redux-with-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shawinder706/Redux-with-React/issues"
+  },
+  "homepage": "https://github.com/Shawinder706/Redux-with-React#readme"
+}
