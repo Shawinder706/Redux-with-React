@@ -19,7 +19,7 @@ const Reducer = (state = initialState, action) => {
 
         case 'INCREMENT':
             return {
-                in: state.in + 12
+                in: state.in + 1
             };
         case 'DECREMENT':
             return {
